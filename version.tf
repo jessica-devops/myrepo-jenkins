@@ -1,4 +1,4 @@
-code materraform {
+terraform {
   required_providers {
     aws = {
       source = "hashicorp/aws"
